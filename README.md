@@ -48,14 +48,19 @@ Pour créer un répertoire :
 - Remonter au niveau de la racine du repository.
 - Cliquer sur ADD FILE -> Create New File.
 - Entrer nom du répertoire/README.md
-- 
+
 Exemple pour créer le répertoire GPIO : smarticities/GPIO/README.md
+
 \
 Pour créer un lien (vers un répertoire ou externe) : `[nom à afficher](lien)`
+
 Exemple lien vers le répertoire GPIO `[GPIO](GPIO)` qui apparaîtra comme [GPIO](GPIO)
+
 \
-Pour insérer une image, simplement la copier dans le presse-papier puis la coller dans le fichier .md.
-Elle sera stockée dans un répertoire particulier de votre Github.
+Pour insérer une image, simplement la copier dans le presse-papier puis la coller dans le fichier .md. Elle sera stockée dans un répertoire particulier de votre Github.
+
 \
-Le langage pour formater les fichiers de type md est décrit [ici](https://docs.github.com/en/getstarted/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-andformatting-syntax).
+Le langage pour formater les fichiers de type md est décrit [ici](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
 Et le fichier contenant le code de cette page est [ici](code_md.pdf)
+
