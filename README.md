@@ -18,7 +18,9 @@ Une fois le compte créé ajouter votre photo (type identité) comme avatar.
 C'est le fichier explicatif racine. Il devra contenir des informations sur la description du RPi Pico, de
 MicroPython et de l’environnement de travail.
 Une photo du brochage du RPi Pico W est utile.
-![image](https://user-images.githubusercontent.com/123806349/215263828-670ae9c1-3d4e-4bfaa0dd-d2cfe9a20086.png)
+
+![image](https://github.com/hepl-scheen/smartcities/assets/158835010/20d19fc4-b9c3-4903-9ec8-b62cda90aee3)
+
 Il comportera des liens vers plusieurs sous-répertoires. Chaque sous-répertoire contiendra un fichier
 descriptif README.md et les ressources liées aux sujetx traités : code, datasheets, photos,
 explications diverses...
