@@ -65,6 +65,6 @@ Le langage pour formater les fichiers de type md est décrit [ici](https://docs.
 \
 Et le fichier contenant le code de cette page est [ici](code_md.pdf)
 
-# Credit
+## Credit
 Je remercie le professeur Camus pour avoir créé le matériel utilisé dans cette unité d'enseignement.
 
