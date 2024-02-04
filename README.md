@@ -34,11 +34,13 @@ Les répertoires sont les suivants :
 - **network** : Accès réseau avec le RPi Pico.
 
 Ils apparaitront sous la forme d'une liste de liens :
-- [GPIO](GPIO)- [AD-PWM](AD-PWM)
+- [GPIO](GPIO)
+- [AD-PWM](AD-PWM)
 - [LCD](LCD)
 - [LED_neo](LED_neo)
 - [sensors](sensors)
 - [network](network)
+- 
 ## Ressources
 **Après chaque opération il faut cliquer sur Commit changes** pour enregistrer dans le Github.
 Pour créer un répertoire :
