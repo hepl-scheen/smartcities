@@ -1,20 +1,20 @@
-# Projet Smartcities.
+# Projet Smartcities
 Dans le cadre du cours de MicroPython et du projet Smartcorridor chaque étudiant de B33 et M03
 devra se créer son propre Github.
 Le but de mon Github (github.com/hepl-camus) est de vous donner des informations sur la manière
 dont vous devez structurer le vôtre. C'est une coquille (presque) vide que vous devrez chacun(e)
 remplir au fur et à mesure et qui servira à votre évaluation continue.
-## Phase 1 : créer votre compte.
+## Phase 1 : créer votre compte
 Allez sur github.com puis :
 - Entrez votre email (utiliser votre email HEPL).
 - Suivre les instructions.
 - Choisir comme nom de Github : hepl-votrenom.
 - Choisir le compte gratuit.
 Une fois le compte créé ajouter votre photo (type identité) comme avatar.
-## Phase 2 : créer un repository.
+## Phase 2 : créer un repository
 - Son nom : smartcities.
 - Type public, licence MIT, avec readme file
-## Compléter le fichier README.md.
+## Compléter le fichier README.md
 C'est le fichier explicatif racine. Il devra contenir des informations sur la description du RPi Pico, de
 MicroPython et de l’environnement de travail.
 Une photo du brochage du RPi Pico W est utile.
@@ -61,6 +61,10 @@ Pour insérer une image, simplement la copier dans le presse-papier puis la coll
 
 \
 Le langage pour formater les fichiers de type md est décrit [ici](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+\
+# Credit
+Je remercie le professeur Camus pour avoir créé le matériel utilisé dans cette unité d'enseignement.
 
 Et le fichier contenant le code de cette page est [ici](code_md.pdf)
 
