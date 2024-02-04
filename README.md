@@ -40,13 +40,15 @@ Ils apparaitront sous la forme d'une liste de liens :
 - [LED_neo](LED_neo)
 - [sensors](sensors)
 - [network](network)
-- 
+  
 ## Ressources
 **Après chaque opération il faut cliquer sur Commit changes** pour enregistrer dans le Github.
+
 Pour créer un répertoire :
 - Remonter au niveau de la racine du repository.
 - Cliquer sur ADD FILE -> Create New File.
 - Entrer nom du répertoire/README.md
+- 
 Exemple pour créer le répertoire GPIO : smarticities/GPIO/README.md
 \
 Pour créer un lien (vers un répertoire ou externe) : `[nom à afficher](lien)`
